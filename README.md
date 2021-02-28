@@ -1,5 +1,4 @@
-### <div align="center">Hi there! 👋 I'm Shyngys, a senior student looking for Java engineering opportunities</div>  
-  
+### <div align="center">Hi there! 👋 I'm Shyngys</div>    
 
 - 🔭 Working on [Distributed chat backend system](https://github.com/bytestreme/chattifier-backend)  
   
